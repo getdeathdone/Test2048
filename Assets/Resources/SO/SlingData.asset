@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: SlingData
   m_EditorClassIdentifier: 
   _pushForce: 30
-  _minX: -2.25
-  _maxX: 2.25
+  _minX: -2
+  _maxX: 2
